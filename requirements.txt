@@ -1,0 +1,13 @@
+# Python dependencies for YUV Tools
+
+# Core dependencies for main tools
+numpy>=1.19.0,<2.0.0
+opencv-python>=4.5.0
+matplotlib>=3.3.0,<3.8.0
+
+# Optional dependencies for minimal tools
+Pillow>=8.0.0
+
+# Development dependencies (optional)
+pytest>=6.0.0
+pytest-cov>=2.10.0
